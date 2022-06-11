@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body bgcolor='cyan'>
+<h1>
+<a href="ep">Electronic product</a>
+<br>
+<a href="cp">ClothProduct</a>
+<br>
+<a href="bp">BookProduct</a>
+</h1>
+
+</body>
+</html>

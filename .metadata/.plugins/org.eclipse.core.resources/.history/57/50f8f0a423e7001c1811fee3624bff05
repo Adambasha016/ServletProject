@@ -1,0 +1,9 @@
+package org.blg.marathalli.aswath.jspApp;
+
+public class Product
+{
+	public String name;
+	
+	
+
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body bgcolor="#42f595">
+<form action="fs" method="post">
+<table>
+<tr><th>Student Registration page</th></tr>
+<tr>
+<td>ID:</td>
+<td><input type="text" name="id">
+</td>
+</tr>
+<tr>
+<td>NAME:</td>
+<td><input type="text" name="nm">
+</td>
+</tr>
+<tr>
+<td>NAME:</td>
+<td><input type="text" name="dp">
+</td>
+</tr>
+<tr>
+<td>NAME:</td>
+<td><input type="text" name="pr">
+</td>
+</tr>
+<tr>
+<td></td>
+<td><input type="submit" value="post">
+</td>
+</tr>
+</table>
+</form>
+</body>
+</html>
